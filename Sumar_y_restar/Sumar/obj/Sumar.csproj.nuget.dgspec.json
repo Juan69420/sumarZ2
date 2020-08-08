@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj": {}
+    "C:\\Users\\Dell\\Source\\Repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj": {
+    "C:\\Users\\Dell\\Source\\Repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Source\\Repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj",
         "projectName": "Sumar",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj",
+        "projectPath": "C:\\Users\\Dell\\Source\\Repos\\sumarZ2\\Sumar_y_restar\\Sumar\\Sumar.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\sumarZ2\\Sumar_y_restar\\Sumar\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Source\\Repos\\sumarZ2\\Sumar_y_restar\\Sumar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
